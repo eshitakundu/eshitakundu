@@ -9,10 +9,6 @@ I am a 3rd year B.Tech CSE core student with a strong interest in data analytics
 - **Programming Languages**: Python
 - **Data Analysis**: Matplotlib, Seaborn
 
-## 📫 Get in Touch
-- **Email**: [eshitakundu123@gmail.com](mailto:eshitakundu123@gmail.com)
-- **LinkedIn**: [Eshita Kundu](https://www.linkedin.com/in/eshitakundu)
-
 Feel free to check out my repositories and connect with me!
 
 ---
