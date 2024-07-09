@@ -19,7 +19,7 @@ Feel free to check out my repositories and connect with me!
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshitakundu&theme=default)
 
-## 🚀 Skills & Tools
+## 🚀 Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
