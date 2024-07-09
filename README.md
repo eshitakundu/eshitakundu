@@ -1,7 +1,7 @@
 # Hi, I'm Eshita Kundu 👋
 
 ## 👩‍💻 About Me
-I am a 3rd year B.Tech CSE core student with a strong interest in data analytics and business intelligence. As an aspiring Business Intelligence Analyst, I am passionate about transforming data into actionable insights. My goal is to leverage my technical skills to help organizations make informed decisions and drive business growth.
+I am a 3rd year B.Tech CSE core student with a strong interest in data analytics and business intelligence. As an aspiring Business Intelligence Analyst. My goal is to leverage my technical skills to help organizations make informed decisions and drive business growth.
 
 ## 🛠️ Skills
 - **Databases**: MySQL, Oracle
@@ -17,6 +17,13 @@ Feel free to check out my repositories and connect with me!
 
 ---
 
-![Eshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshitakundu&show_icons=true&theme=radical)
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshitakundu&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshitakundu&layout=compact&theme=radical)
+## 🚀 Skills & Tools
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power%20BI)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
