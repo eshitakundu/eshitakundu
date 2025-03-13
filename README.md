@@ -15,8 +15,7 @@ I am a **Data Analyst & Business Intelligence Analyst** with a strong foundation
 ---
 
 ## 📊 Skills & Technologies  
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)  
-![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)  
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)  ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)  
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)  
