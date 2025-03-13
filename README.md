@@ -25,7 +25,7 @@ I am a **Data Analyst & Business Intelligence Analyst** with a strong foundation
 
 ## ✍ Blog & Portfolio  
 📖 *Blog (Coming Soon!)* → *[Medium Profile](#)*  
-💻 *Portfolio Website (Coming Soon!)* → *[GitHub Pages or Deployed Link](#)*  
+💻 *Portfolio Website (Coming Soon!)* → *[Link](#)*  
 
 ---
 
