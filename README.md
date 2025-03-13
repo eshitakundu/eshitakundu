@@ -1,7 +1,7 @@
 # Hi, I'm Eshita Kundu 👋
 
 ## 👩‍💻 About Me  
-I am a **Data Analyst & Business Intelligence Analyst** with a strong foundation in **SQL, Python, Power BI, and Tableau**. My expertise lies in **data analysis, visualization, and business intelligence**, enabling organizations to derive actionable insights and make data-driven decisions.
+I am a **Data Analyst & Business Intelligence Analyst** with a strong foundation in **SQL, Python, Power BI, and Tableau**. My expertise lies in **data analysis, visualization, and business intelligence**, enabling organizations to derive actionable insights and make data-driven decisions. 
 
 ---
 
@@ -15,25 +15,21 @@ I am a **Data Analyst & Business Intelligence Analyst** with a strong foundation
 ---
 
 ## 📊 Skills & Technologies  
-### **Databases & Querying**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### **Programming & Data Analysis**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge&logo=seaborn&logoColor=white)  
-
-### **Data Visualization & BI Tools**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)  
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)  
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power%20BI)  
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=Microsoft%20Excel)  
 
 ### **Certifications**  
-![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-![Microsoft Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Google Business Intelligence](https://img.shields.io/badge/Google%20Business%20Intelligence-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![Cisco Data Analytics](https://img.shields.io/badge/Cisco%20Data%20Analytics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
+![Internshala Data Science](https://img.shields.io/badge/Internshala%20Data%20Science-00C4B3?style=for-the-badge&logo=internshala&logoColor=white)  
 
 ---
 
