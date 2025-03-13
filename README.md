@@ -6,10 +6,9 @@ I am a **Data Analyst & Business Intelligence Analyst** with a strong foundation
 ---
 
 ## 📌 Featured Project  
-### **AICTE Internship Project: Prediction of Disease Outbreaks**  
+### **Microsoft, SAP-AICTE Internship Project: Prediction of Disease Outbreaks**  
 🔗 *[GitHub Repository](https://github.com/eshitakundu/disease-outbreak-predictor)* | *Deployed Project: [Live Demo](https://disease-outbreak-predictor-esh.streamlit.app/)*  
 - Developed a **predictive model** for analyzing disease trends.  
-- Implemented **Python (Pandas, Scikit-learn), Power BI, and SQL** for data-driven insights.  
 - Built an interactive **Streamlit web application** for real-time predictions.  
 
 ---
