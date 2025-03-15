@@ -24,7 +24,8 @@ I am a **Data Analyst & Business Intelligence Analyst** with a strong foundation
 ---
 
 ## ✍ Blog & Portfolio  
-📖 *Blog (Coming Soon!)* → *[Medium Profile](#)*  
+📖 *Blog (Coming Soon!)* → *[Medium Profile](#)* 
+👩🏻‍💻 *Kaggle* → *[Link](https://www.kaggle.com/eshitakun)*
 💻 *Portfolio Website (Coming Soon!)* → *[Link](#)*  
 
 ---
