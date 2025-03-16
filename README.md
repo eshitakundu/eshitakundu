@@ -31,6 +31,7 @@ I am a **Data Analyst & Business Intelligence Analyst** with a strong foundation
 ---
 
 ## 📈 GitHub Stats  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-github-username&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)](https://github.com/your-github-username)
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshitakundu&theme=default)  
 
 ---
