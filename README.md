@@ -54,8 +54,8 @@
 > SEND_MESSAGE.bat
 ```
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=0078D7)](https://linkedin.com/in/eshitakundu)
 [![Medium](https://img.shields.io/badge/medium-0D1117?style=flat-square&logo=medium&logoColor=0078D7)](#)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=0078D7)](https://linkedin.com/in/eshitakundu)
 [![Mail](https://img.shields.io/badge/email-0D1117?style=flat-square&logo=gmail&logoColor=0078D7)](mailto:eshita.kundu.2026@gmail.com)
 
 <img src="./ending.png" width="100%"/>
