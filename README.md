@@ -1,39 +1,53 @@
-# Hi, I'm Eshita Kundu 👋
+<div align="center">
 
-## 👩‍💻 About Me  
-I am a **Data Analyst & Business Intelligence Analyst** with a strong foundation in **SQL, Python, Power BI, and Tableau**. My expertise lies in **data analysis, visualization, and business intelligence**, enabling organizations to derive actionable insights and make data-driven decisions. 
+```bash
+eshita@universe:~$ whoami
+```
 
----
+```
+                                         esh@portfolio
+   ███████╗███████╗██╗  ██╗             ─────────────────────────────────────
+   ██╔════╝██╔════╝██║  ██║             role      →  data engineer (incoming)
+   █████╗  ███████╗███████║             based     →  kolkata, india
+   ██╔══╝  ╚════██║██╔══██║             degree    →  B.Tech CSE, 2026
+   ███████╗███████║██║  ██║             stack     →  python, sql, docker, airflow, dbt
+   ╚══════╝╚══════╝╚═╝  ╚═╝             obsessed  →  pipelines, llm agents, weird apps
+                                        trophy    →  2nd place · BRICS-FS-36 · WorldSkills
+                                        writing   →  medium (incoming)
+                                        contact   →  eshita.kundu.2026@gmail.com
+```
 
-## 📊 Skills & Technologies  
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)  ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)  ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)  ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power%20BI)  ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  ![Excel](https://img.shields.io/badge/-Excel-000?&logo=Microsoft%20Excel)  
+<br/>
 
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eshitakundu&theme=tokyonight&hide_border=true)](https://github.com/eshitakundu)
+&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshitakundu&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/eshitakundu)
 
-## 📌 Featured Project  
-### **Microsoft, SAP-AICTE Internship Project: Prediction of Disease Outbreaks**  
-🔗 *[GitHub Repository](https://github.com/eshitakundu/disease-outbreak-predictor)* | *Deployed Project: [Live Demo](https://disease-outbreak-predictor-esh.streamlit.app/)*  
-- Developed a **predictive model** for analyzing disease trends.  
-- Built an interactive **Streamlit web application** for real-time predictions.  
-
----
-
-### **Certifications**  
-![Google Business Intelligence](https://img.shields.io/badge/Google%20Business%20Intelligence-4285F4?style=for-the-badge&logo=google&logoColor=white)  ![Cisco Data Analytics](https://img.shields.io/badge/Cisco%20Data%20Analytics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  ![Internshala Data Science](https://img.shields.io/badge/Internshala%20Data%20Science-00C4B3?style=for-the-badge&logo=internshala&logoColor=white)  
-
----
-
-## ✍ Blog & Portfolio  
-- 📖 *Blog (Coming Soon!)* → *[Medium Profile](#)* 
-- 👩🏻‍💻 *Kaggle* → *[Link](https://www.kaggle.com/eshitakun)*
-- 💻 *Portfolio Website (Coming Soon!)* → *[Link](#)*  
+<br/>
 
 ---
 
-## 📈 GitHub Stats  
-![Profile Views](https://komarev.com/ghpvc/?username=eshitakundu&color=blue)
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshitakundu&theme=default)  
+### currently building
 
----
+| project | stack | what |
+|---|---|---|
+| [ELT Weather Pipeline](https://github.com/eshitakundu) | Airflow 3 · dbt · PostgreSQL · Superset | live weather data → dashboard |
+| [csv-mysql-airflow](https://github.com/eshitakundu/csv-mysql-airflow) | Airflow · MySQL · Docker | CSV → MySQL via orchestrated DAG |
+| [MCP DevOps Hub](https://github.com/eshitakundu) | Docker · Telegram · MCP | LLM intent → deterministic CI/CD |
+| [constellation-app](https://github.com/eshitakundu) | FastAPI · p5.js | text → star constellation via MST |
 
-📌 **Connect with me through my projects and upcoming blog!**
+<br/>
+
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
+![Airflow](https://img.shields.io/badge/Airflow-000?style=flat-square&logo=apacheairflow)
+![dbt](https://img.shields.io/badge/dbt-000?style=flat-square&logo=dbt)
+![Snowflake](https://img.shields.io/badge/Snowflake-000?style=flat-square&logo=snowflake)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi)
+
+<br/>
+
+[linkedin](https://linkedin.com/in/eshitakundu) · [medium](#) · eshita.kundu.2026@gmail.com
+
+</div>
