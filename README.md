@@ -1,27 +1,34 @@
 <div align="center">
 
-```bash
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</picture>
+
+<br/>
+
+```
 eshita@universe:~$ whoami
 ```
 
 ```
-                                         esh@portfolio
-   ███████╗███████╗██╗  ██╗             ─────────────────────────────────────
-   ██╔════╝██╔════╝██║  ██║             role      →  data engineer (incoming)
-   █████╗  ███████╗███████║             based     →  kolkata, india
-   ██╔══╝  ╚════██║██╔══██║             degree    →  B.Tech CSE, 2026
-   ███████╗███████║██║  ██║             stack     →  python, sql, docker, airflow, dbt
-   ╚══════╝╚══════╝╚═╝  ╚═╝             obsessed  →  pipelines, llm agents, weird apps
-                                        trophy    →  2nd place · BRICS-FS-36 · WorldSkills
-                                        writing   →  medium (incoming)
-                                        contact   →  eshita.kundu.2026@gmail.com
+  name    →  Eshita Kundu
+  role    →  Data Engineer · GenAI · Final year CSE 2026
+  based   →  Kolkata, India
+  stack   →  Python · SQL · Docker · Airflow · dbt · Snowflake
+  trophy  →  2nd place · BRICS-FS-36 · WorldSkills
+  now     →  Building pipelines and LLM-powered systems
+  words   →  Medium (incoming)
+  mail    →  eshita.kundu.2026@gmail.com
 ```
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eshitakundu&theme=tokyonight&hide_border=true)](https://github.com/eshitakundu)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshitakundu&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/eshitakundu)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eshitakundu&theme=midnight-purple&hide_border=true&background=0D1117)](https://github.com/eshitakundu)
+
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshitakundu&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117)](https://github.com/eshitakundu)
 
 <br/>
 
@@ -31,20 +38,20 @@ eshita@universe:~$ whoami
 
 | project | stack | what |
 |---|---|---|
-| [ELT Weather Pipeline](https://github.com/eshitakundu) | Airflow 3 · dbt · PostgreSQL · Superset | live weather data → dashboard |
-| [csv-mysql-airflow](https://github.com/eshitakundu/csv-mysql-airflow) | Airflow · MySQL · Docker | CSV → MySQL via orchestrated DAG |
+| [ELT Weather Pipeline](https://github.com/eshitakundu) | Airflow 3 · dbt · PostgreSQL · Superset | live weather data → real-time dashboard |
+| [csv-mysql-airflow](https://github.com/eshitakundu/csv-mysql-airflow) | Airflow · MySQL · Docker | orchestrated CSV → MySQL pipeline |
 | [MCP DevOps Hub](https://github.com/eshitakundu) | Docker · Telegram · MCP | LLM intent → deterministic CI/CD |
 | [constellation-app](https://github.com/eshitakundu) | FastAPI · p5.js | text → star constellation via MST |
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
-![Airflow](https://img.shields.io/badge/Airflow-000?style=flat-square&logo=apacheairflow)
-![dbt](https://img.shields.io/badge/dbt-000?style=flat-square&logo=dbt)
-![Snowflake](https://img.shields.io/badge/Snowflake-000?style=flat-square&logo=snowflake)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-0D1117?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=snowflake&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=white)
 
 <br/>
 
