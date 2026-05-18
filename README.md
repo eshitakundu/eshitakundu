@@ -31,6 +31,7 @@
 | 002 | csv-mysql-airflow | `DONE` |
 | 003 | mcp-devops-hub | `RUNNING` |
 | 004 | constellation-app | `RUNNING` |
+| 005 | netflix-dbt-pipeline | `IN PROGRESS` |
 
 </td>
 </tr>
