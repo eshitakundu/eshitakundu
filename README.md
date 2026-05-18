@@ -1,50 +1,55 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</picture>
+<!--  TOP DASHBOARD: 3D graph left, info right -->
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions"/>
+
+</td>
+<td width="5%"></td>
+<td width="40%" valign="middle" align="left">
+
+```
+eshita kundu
+─────────────────────
+data engineer · genai
+kolkata, india · 2026
+
+building pipelines
+and things that
+shouldn't exist
+─────────────────────
+eshita.kundu.2026
+    @gmail.com
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-```
-eshita@universe:~$ whoami
-```
-
-```
-  name    →  Eshita Kundu
-  role    →  Data Engineer · GenAI · Final year CSE 2026
-  based   →  Kolkata, India
-  stack   →  Python · SQL · Docker · Airflow · dbt · Snowflake
-  trophy  →  2nd place · BRICS-FS-36 · WorldSkills
-  now     →  Building pipelines and LLM-powered systems
-  words   →  Medium (incoming)
-  mail    →  eshita.kundu.2026@gmail.com
-```
-
-<br/>
+<!-- STATS ROW -->
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eshitakundu&theme=midnight-purple&hide_border=true&background=0D1117)](https://github.com/eshitakundu)
 
-<br/>
+</td>
+<td>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshitakundu&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117)](https://github.com/eshitakundu)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshitakundu&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&langs_count=8)](https://github.com/eshitakundu)
 
-<br/>
-
----
-
-### currently building
-
-| project | stack | what |
-|---|---|---|
-| [ELT Weather Pipeline](https://github.com/eshitakundu) | Airflow 3 · dbt · PostgreSQL · Superset | live weather data → real-time dashboard |
-| [csv-mysql-airflow](https://github.com/eshitakundu/csv-mysql-airflow) | Airflow · MySQL · Docker | orchestrated CSV → MySQL pipeline |
-| [MCP DevOps Hub](https://github.com/eshitakundu) | Docker · Telegram · MCP | LLM intent → deterministic CI/CD |
-| [constellation-app](https://github.com/eshitakundu) | FastAPI · p5.js | text → star constellation via MST |
+</td>
+</tr>
+</table>
 
 <br/>
 
+<!-- BADGES -->
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white)
@@ -52,6 +57,7 @@ eshita@universe:~$ whoami
 ![dbt](https://img.shields.io/badge/dbt-0D1117?style=flat-square&logo=dbt&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=snowflake&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=white)
 
 <br/>
 
