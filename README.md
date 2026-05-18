@@ -17,7 +17,7 @@
 | user | eshita kundu |
 | location | kolkata, india |
 | degree | B.Tech CSE, 2026 |
-| status | building things that shouldn't exist |
+| status | building |
 | contact | eshita.kundu.2026@gmail.com |
 
 </td>
