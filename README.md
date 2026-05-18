@@ -6,21 +6,35 @@
 
 <img src="./middle.png" width="100%"/>
 
-```
-> SYSTEM_INFO.txt ··············································
-  user     eshita kundu  ·  kolkata, india  ·  CSE 2026
-  status   building pipelines and things that shouldn't exist
-  contact  eshita.kundu.2026@gmail.com
-```
+<table border="0" cellpadding="10">
+<tr>
+<td valign="top">
 
-```
-> ACTIVE_PROCESSES.exe
+**`> SYSTEM_INFO.txt`**
 
-  [RUNNING]  elt-weather-pipeline   airflow 3 · dbt · postgres · superset
-  [DONE]     csv-mysql-airflow      airflow · mysql · docker
-  [RUNNING]  mcp-devops-hub         docker · telegram · llm agents
-  [RUNNING]  constellation-app      fastapi · p5.js · mst
-```
+| key | value |
+|-----|-------|
+| user | eshita kundu |
+| location | kolkata, india |
+| degree | B.Tech CSE, 2026 |
+| status | building things that shouldn't exist |
+| contact | eshita.kundu.2026@gmail.com |
+
+</td>
+<td valign="top">
+
+**`> ACTIVE_PROCESSES.exe`**
+
+| PID | process | status |
+|-----|---------|--------|
+| 001 | elt-weather-pipeline | `RUNNING` |
+| 002 | csv-mysql-airflow | `DONE` |
+| 003 | mcp-devops-hub | `RUNNING` |
+| 004 | constellation-app | `RUNNING` |
+
+</td>
+</tr>
+</table>
 
 ```
 > INSTALLED_PROGRAMS
