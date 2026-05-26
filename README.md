@@ -49,6 +49,9 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=snowflake&logoColor=0078D7)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=0078D7)
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=0078D7)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=0078D7)
+![Anthropic](https://img.shields.io/badge/Anthropic-0D1117?style=flat-square&logo=anthropic&logoColor=0078D7)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=0078D7)
 
 ```
 > SEND_MESSAGE.bat
