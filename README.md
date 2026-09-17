@@ -1,69 +1,152 @@
 <div align="center">
 
-<img src="./title.png" width="100%"/>
+# `eshita@build-node:~$ whoami`
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=3000&pause=1000&color=0078D7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=C%3A%5CUsers%5Ceshita%3E+whoami;genai+infra+%2F+agentic+systems+%2F+open+to+roles)](https://github.com/eshitakundu)
+### AI / Agentic Systems · Backend Engineering · Web3 Tooling
 
-<img src="./middle.png" width="100%"/>
+`building systems that reason, call tools, inspect state, and ship`
 
-<table border="0" cellpadding="10">
-<tr>
-<td valign="top">
-
-**`> SYSTEM_INFO.txt`**
-
-| key | value |
-|-----|-------|
-| user | eshita kundu |
-| location | kolkata, india |
-| degree | B.Tech CSE '26 |
-| focus | genai infra · agentic systems |
-| status | shipping ARIS · open to roles |
-| contact | eshita.kundu.2026@gmail.com |
-
-</td>
-<td valign="top">
-
-**`> ACTIVE_PROCESSES.exe`**
-
-| PID | process | status |
-|-----|---------|--------|
-| 001 | ARIS | `RUNNING` |
-| 002 | mcp-devops-hub | `RUNNING` |
-| 003 | constellation-app | `RUNNING` |
-| 004 | reelForge] | `QUEUED` |
-| 005 | [REDACTED] | `QUEUED` |
-
-</td>
-</tr>
-</table>
-
-```
-> INSTALLED_PROGRAMS
-```
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=0078D7)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=0078D7)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=0078D7)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=0078D7)
-![Airflow](https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=0078D7)
-![dbt](https://img.shields.io/badge/dbt-0D1117?style=flat-square&logo=dbt&logoColor=0078D7)
-![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=snowflake&logoColor=0078D7)
-![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=0078D7)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=0078D7)
-![Anthropic](https://img.shields.io/badge/Anthropic-0D1117?style=flat-square&logo=anthropic&logoColor=0078D7)
-![MCP](https://img.shields.io/badge/MCP-0D1117?style=flat-square&logoColor=0078D7)
-![NVIDIA_NIM](https://img.shields.io/badge/NVIDIA%20NIM-0D1117?style=flat-square&logo=nvidia&logoColor=0078D7)
-![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=0078D7)
-
-```
-> SEND_MESSAGE.bat
-```
-
-[![Medium](https://img.shields.io/badge/medium-0D1117?style=flat-square&logo=medium&logoColor=0078D7)](https://medium.com/@eshita.kundu.2026)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=0078D7)](https://linkedin.com/in/eshitakundu)
-[![Mail](https://img.shields.io/badge/email-0D1117?style=flat-square&logo=gmail&logoColor=0078D7)](mailto:eshita.kundu.2026@gmail.com)
-
-<img src="./ending.png" width="100%"/>
+[Portfolio](https://eshita.dev) ·
+[LinkedIn](https://linkedin.com/in/eshitakundu) ·
+[Medium](https://medium.com/@eshita.kundu.2026) ·
+[Email](mailto:eshita.kundu.2026@gmail.com)
 
 </div>
+
+---
+
+```text
+┌─ SYSTEM --------------------------------------------------------┐
+│ user        eshita kundu                                       │
+│ location    kolkata, india                                     │
+│ degree      b.tech computer science · 2026                     │
+│ focus       agentic ai · genai infrastructure · web3           │
+│ mode        building / learning / shipping                     │
+│ status      open to ai & applied engineering roles             │
+└----------------------------------------------------------------┘
+```
+
+## `$ ps --active`
+
+| state | system | what it does |
+|:---:|---|---|
+| `LIVE` | **[ARIS](https://aris.eshita.dev)** | multi-agent technology adoption intelligence with deterministic scoring |
+| `DEPLOYING` | **[TraceIntel](https://traceintel.eshita.dev)** | persistent on-chain exposure intelligence for EVM transactions |
+| `ACTIVE` | **MCP DevOps Orchestration Hub** | agent-driven DevOps automation with MCP, queues and human-controlled execution |
+| `BUILDING` | **Monad transaction intelligence** | making on-chain transactions easier to inspect, understand and question |
+| `ACTIVE` | **Study Buddy MCP** | structured MCP tooling for study material, retrieval and mastery tracking |
+
+---
+
+## `$ traceintel --why`
+
+```text
+historical transaction
+        │
+        ├── deterministic evidence
+        ├── risk signals
+        ├── token permissions
+        │
+        ▼
+     THEN
+        │
+        ▼
+current chain state
+        │
+        ├── allowance
+        ├── balance
+        ├── spender state
+        │
+        ▼
+      NOW
+        │
+        ▼
+persistent exposure
+        │
+        └── NOOA → evidence-grounded interpretation
+```
+
+> not just **what happened?**  
+> but **what did it leave behind, and does it still matter?**
+
+---
+
+## `$ stack --loaded`
+
+### runtime / backend
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=4FC3F7)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=4FC3F7)
+![Pydantic](https://img.shields.io/badge/Pydantic-0D1117?style=flat-square&logo=pydantic&logoColor=4FC3F7)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=4FC3F7)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4FC3F7)
+
+### agents / llm systems
+
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-0D1117?style=flat-square&logo=openai&logoColor=4FC3F7)
+![NOOA](https://img.shields.io/badge/NOOA-0D1117?style=flat-square&logo=nvidia&logoColor=4FC3F7)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=4FC3F7)
+![MCP](https://img.shields.io/badge/MCP-0D1117?style=flat-square&logoColor=4FC3F7)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=4FC3F7)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-0D1117?style=flat-square&logoColor=4FC3F7)
+
+### infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=4FC3F7)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=4FC3F7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=4FC3F7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4FC3F7)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=4FC3F7)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=4FC3F7)
+
+### frontend / web3
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=4FC3F7)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=4FC3F7)
+![Ethereum](https://img.shields.io/badge/Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=4FC3F7)
+![EVM](https://img.shields.io/badge/EVM-0D1117?style=flat-square&logo=ethereum&logoColor=4FC3F7)
+
+---
+
+## `$ architecture --principles`
+
+```python
+facts = deterministic_systems()
+reasoning = agents(facts)
+actions = tools(reasoning)
+
+assert facts not in hallucinations
+assert actions require_boundaries
+assert systems_are_explainable
+```
+
+I like building AI systems where the LLM is **one component of the architecture**, not the architecture itself.
+
+Current interests:
+
+`agent orchestration` · `tool use` · `MCP` · `evaluation` ·
+`deterministic + agentic systems` · `backend infrastructure` ·
+`EVM state` · `developer tooling`
+
+---
+
+## `$ achievements --recent`
+
+```text
+2026  EL Excellence Award · Top 50 Learner
+2024  BRICS-FS-36 Data Analysis & Visualization · 2nd Prize
+      International Final · China
+```
+
+---
+
+## `$ connect`
+
+[![Portfolio](https://img.shields.io/badge/eshita.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4FC3F7)](https://eshita.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=4FC3F7)](https://linkedin.com/in/eshitakundu)
+[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=4FC3F7)](https://medium.com/@eshita.kundu.2026)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=4FC3F7)](mailto:eshita.kundu.2026@gmail.com)
+
+```text
+eshita@build-node:~$ _
+```
