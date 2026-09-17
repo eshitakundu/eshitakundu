@@ -64,24 +64,24 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshitakundu&theme=github_dark" width="95%"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshitakundu&theme=github_dark"
+  width="75%"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshitakundu&theme=github_dark" width="47%"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshitakundu&theme=github_dark"
+  width="36%"
+/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshitakundu&theme=github_dark&utcOffset=5.5" width="47%"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshitakundu&theme=github_dark&utcOffset=5.5"
+  width="36%"
+/>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=eshitakundu&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
-
-</div>
-
 ---
 
 ## Open source & community
