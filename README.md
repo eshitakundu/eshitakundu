@@ -8,11 +8,6 @@
 
 `agentic systems` · `backend` · `web3` · `developer tooling`
 
-<br/>
-
-<img src="./middle.png" width="100%" alt="Profile banner"/>
-
-<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/eshita.dev-111827?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://eshita.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-111827?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eshitakundu)
