@@ -4,7 +4,7 @@
 
 # Eshita Kundu
 
-**Agentic systems · backend engineering · Web3**
+**Agentic systems · backend engineering · data analysis**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-eshita.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://eshita.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eshitakundu)
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,ts,react,nodejs,fastapi,postgres,redis,docker,git,github,linux,cloudflare&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,react,nodejs,fastapi,postgres,redis,docker,git,github,linux,cloudflare&perline=12)](https://skillicons.dev)
 
 </div>
 
@@ -64,9 +64,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eshitakundu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshitakundu&theme=github_dark" width="95%"/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=eshitakundu&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshitakundu&theme=github_dark" width="47%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshitakundu&theme=github_dark&utcOffset=5.5" width="47%"/>
 
 </div>
 
