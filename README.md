@@ -35,8 +35,6 @@ environment     windows + wsl
 
 [![My Skills](https://skillicons.dev/icons?i=python,nodejs,fastapi,postgres,redis,docker,git,github,linux,cloudflare&perline=12)](https://skillicons.dev)
 
-<br/>
-
 `Pydantic` · `MCP` · `LangGraph` · `NOOA` · `OpenRouter` · `pgvector` · `uv` · `GitHub Actions` · `EVM`
 
 </div>
@@ -52,8 +50,6 @@ environment     windows + wsl
   width="76%"
   alt="GitHub profile activity"
 />
-
-<br/><br/>
 
 <table>
 <tr>
@@ -120,13 +116,9 @@ Issues, discussions, and collaboration are welcome.
 [![Followers](https://img.shields.io/github/followers/eshitakundu?style=flat-square&label=followers&color=111827)](https://github.com/eshitakundu?tab=followers)
 ![Profile views](https://komarev.com/ghpvc/?username=eshitakundu&style=flat-square&label=profile+views&color=111827)
 
-<br/><br/>
-
 [![GitHub](https://img.shields.io/badge/@eshitakundu-111827?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/eshitakundu)
 [![LinkedIn](https://img.shields.io/badge/connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eshitakundu)
 [![Portfolio](https://img.shields.io/badge/eshita.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://eshita.dev)
-
-<br/><br/>
 
 <img src="./ending.png" width="100%" alt="Profile footer"/>
 
