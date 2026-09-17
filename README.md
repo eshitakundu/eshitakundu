@@ -1,152 +1,103 @@
 <div align="center">
 
-# `eshita@build-node:~$ whoami`
+<img src="./title.png" width="100%" alt="Profile header"/>
 
-### AI / Agentic Systems · Backend Engineering · Web3 Tooling
+# Eshita Kundu
 
-`building systems that reason, call tools, inspect state, and ship`
+**Agentic systems · backend engineering · Web3**
 
-[Portfolio](https://eshita.dev) ·
-[LinkedIn](https://linkedin.com/in/eshitakundu) ·
-[Medium](https://medium.com/@eshita.kundu.2026) ·
-[Email](mailto:eshita.kundu.2026@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eshita.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://eshita.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eshitakundu)
+[![Medium](https://img.shields.io/badge/Medium-Read-111827?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@eshita.kundu.2026)
 
 </div>
 
 ---
 
-```text
-┌─ SYSTEM --------------------------------------------------------┐
-│ user        eshita kundu                                       │
-│ location    kolkata, india                                     │
-│ degree      b.tech computer science · 2026                     │
-│ focus       agentic ai · genai infrastructure · web3           │
-│ mode        building / learning / shipping                     │
-│ status      open to ai & applied engineering roles             │
-└----------------------------------------------------------------┘
-```
+## Current workbench
 
-## `$ ps --active`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| state | system | what it does |
-|:---:|---|---|
-| `LIVE` | **[ARIS](https://aris.eshita.dev)** | multi-agent technology adoption intelligence with deterministic scoring |
-| `DEPLOYING` | **[TraceIntel](https://traceintel.eshita.dev)** | persistent on-chain exposure intelligence for EVM transactions |
-| `ACTIVE` | **MCP DevOps Orchestration Hub** | agent-driven DevOps automation with MCP, queues and human-controlled execution |
-| `BUILDING` | **Monad transaction intelligence** | making on-chain transactions easier to inspect, understand and question |
-| `ACTIVE` | **Study Buddy MCP** | structured MCP tooling for study material, retrieval and mastery tracking |
+**Building**
+- agentic systems with deterministic control
+- EVM transaction and state analysis
+- MCP-based tooling
+- backend systems that expose clean, typed interfaces
 
----
+</td>
+<td width="50%" valign="top">
 
-## `$ traceintel --why`
+**Learning / exploring**
+- NOOA and object-oriented agents
+- agent evaluation and grounding
+- Solidity and EVM internals
+- better developer workflows in WSL/Linux
 
-```text
-historical transaction
-        │
-        ├── deterministic evidence
-        ├── risk signals
-        ├── token permissions
-        │
-        ▼
-     THEN
-        │
-        ▼
-current chain state
-        │
-        ├── allowance
-        ├── balance
-        ├── spender state
-        │
-        ▼
-      NOW
-        │
-        ▼
-persistent exposure
-        │
-        └── NOOA → evidence-grounded interpretation
-```
+</td>
+</tr>
+</table>
 
-> not just **what happened?**  
-> but **what did it leave behind, and does it still matter?**
+> Current repositories are pinned below.  
+> I keep this README focused on what I am working with, not on repeating my portfolio.
 
 ---
 
-## `$ stack --loaded`
+## Toolchain
 
-### runtime / backend
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=4FC3F7)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=4FC3F7)
-![Pydantic](https://img.shields.io/badge/Pydantic-0D1117?style=flat-square&logo=pydantic&logoColor=4FC3F7)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=4FC3F7)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4FC3F7)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,react,nodejs,fastapi,postgres,redis,docker,git,github,linux,cloudflare&perline=12)](https://skillicons.dev)
 
-### agents / llm systems
+</div>
 
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-0D1117?style=flat-square&logo=openai&logoColor=4FC3F7)
-![NOOA](https://img.shields.io/badge/NOOA-0D1117?style=flat-square&logo=nvidia&logoColor=4FC3F7)
-![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=4FC3F7)
-![MCP](https://img.shields.io/badge/MCP-0D1117?style=flat-square&logoColor=4FC3F7)
-![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=4FC3F7)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-0D1117?style=flat-square&logoColor=4FC3F7)
+<div align="center">
 
-### infrastructure
+`Pydantic` · `MCP` · `LangGraph` · `NOOA` · `OpenRouter` · `EVM` · `uv` · `GitHub Actions`
 
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=4FC3F7)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=4FC3F7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=4FC3F7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4FC3F7)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=4FC3F7)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=4FC3F7)
-
-### frontend / web3
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=4FC3F7)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=4FC3F7)
-![Ethereum](https://img.shields.io/badge/Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=4FC3F7)
-![EVM](https://img.shields.io/badge/EVM-0D1117?style=flat-square&logo=ethereum&logoColor=4FC3F7)
+</div>
 
 ---
 
-## `$ architecture --principles`
+## GitHub activity
 
-```python
-facts = deterministic_systems()
-reasoning = agents(facts)
-actions = tools(reasoning)
+<div align="center">
 
-assert facts not in hallucinations
-assert actions require_boundaries
-assert systems_are_explainable
-```
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eshitakundu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="GitHub stats"/>
 
-I like building AI systems where the LLM is **one component of the architecture**, not the architecture itself.
+<img height="165" src="https://streak-stats.demolab.com?user=eshitakundu&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 
-Current interests:
+</div>
 
-`agent orchestration` · `tool use` · `MCP` · `evaluation` ·
-`deterministic + agentic systems` · `backend infrastructure` ·
-`EVM state` · `developer tooling`
+<br/>
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=eshitakundu&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+
+</div>
 
 ---
 
-## `$ achievements --recent`
+## Open source & community
 
-```text
-2026  EL Excellence Award · Top 50 Learner
-2024  BRICS-FS-36 Data Analysis & Visualization · 2nd Prize
-      International Final · China
-```
+I am actively looking to contribute more to open-source projects around **AI tooling, agents, developer infrastructure, and Web3**.
+
+If you are building in any of those areas, feel free to reach out through:
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@eshitakundu-111827?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/eshitakundu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eshitakundu-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eshitakundu)
+[![Email](https://img.shields.io/badge/Email-eshita.kundu.2026%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:eshita.kundu.2026@gmail.com)
+
+</div>
 
 ---
 
-## `$ connect`
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/eshita.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4FC3F7)](https://eshita.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=4FC3F7)](https://linkedin.com/in/eshitakundu)
-[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=4FC3F7)](https://medium.com/@eshita.kundu.2026)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=4FC3F7)](mailto:eshita.kundu.2026@gmail.com)
+<img src="./ending.png" width="100%" alt="Profile footer"/>
 
-```text
-eshita@build-node:~$ _
-```
+</div>
