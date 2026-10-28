@@ -6,6 +6,8 @@
 
 # Eshita Kundu
 
+I build AI agents that show their evidence and know when to say "not sure."
+
 `agentic systems` · `backend` · `web3` · `developer tooling`
 
 
@@ -26,6 +28,16 @@ learning        solidity, deeper EVM internals, react
 working with    python, fastapi, postgres, docker
 environment     windows + wsl
 ```
+
+---
+
+## `~/shipped`
+
+<div align="center">
+
+[TraceIntel](https://traceintel.eshita.dev) · [ARIS](https://aris.eshita.dev/) · [study-buddy](https://github.com/eshitakundu/study-buddy)
+
+</div>
 
 ---
 
@@ -51,28 +63,11 @@ environment     windows + wsl
   alt="GitHub profile activity"
 />
 
-<table>
-<tr>
-<td width="50%" align="center">
-
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshitakundu&theme=github_dark"
-  width="100%"
+  width="49%"
   alt="GitHub statistics"
 />
-
-</td>
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshitakundu&theme=github_dark&utcOffset=5.5"
-  width="100%"
-  alt="Commit activity by time"
-/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -114,7 +109,6 @@ Issues, discussions, and collaboration are welcome.
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/eshitakundu?style=flat-square&label=followers&color=111827)](https://github.com/eshitakundu?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=eshitakundu&style=flat-square&label=profile+views&color=111827)
 
 [![GitHub](https://img.shields.io/badge/@eshitakundu-111827?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/eshitakundu)
 [![LinkedIn](https://img.shields.io/badge/connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eshitakundu)
