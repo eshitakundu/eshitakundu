@@ -6,8 +6,8 @@
 
 # Eshita Kundu
 
-`agentic systems` · `backend` · `web3` · `developer tooling`
-
+**AI engineer building tool-using LLM agents where code, not the model, makes the final call.**<br/>
+B.Tech CSE 2026 · Kolkata, India · open to AI engineer and Python backend roles (remote-first)
 
 [![Portfolio](https://img.shields.io/badge/eshita.dev-111827?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://eshita.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-111827?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eshitakundu)
@@ -18,13 +18,25 @@
 
 ---
 
-## `~/now`
+## `~/projects`
+
+| Project | What it does | Proof |
+| --- | --- | --- |
+| **[TraceIntel](https://github.com/eshitakundu/TraceIntel)**<br/>[live](https://traceintel.eshita.dev) · [demo](https://drive.google.com/file/d/1-5eEX6gudDaP5FLFxx9WotcHQ9CJlThD/view) | Security agent that checks which token permissions a crypto transaction left open and advises revoke, verify or review. The model picks checks and evidence by ID; code writes every sentence. | 24 CI evals (5 adversarial) · 101 tests · [live model vs baseline results](https://github.com/eshitakundu/TraceIntel#live-model-vs-baseline-28-oct-2026-free-tier-openrouter-key) |
+| **[ARIS](https://github.com/eshitakundu/ARIS)**<br/>[site](https://aris.eshita.dev/) · [demo](https://drive.google.com/file/d/1jML5SADdQUz9jS4FM7lG59d3zc-DFHqd/view) | Research workflow that answers "should we adopt this dependency?" with 7 parallel branches over 8 sources; Python computes every score, the LLM only reads and summarises. | 104 nodes · 18 Python scoring nodes · security veto |
+| **[Agon](https://agon-landing-mu.vercel.app)** (team)<br/>[demo](https://youtu.be/2ded1QWIE_g) | MCP server that lets AI clients like Claude Code research tokens and paper-trade within limits the model can't override. I designed the guardrails. | 100+ registered accounts |
+| **[study-buddy](https://github.com/eshitakundu/study-buddy)** | MCP server that turns Claude Desktop into an exam coach over your own notes and past papers, with mastery tracking. | 13 tools · 3 resources · 4 prompts |
+
+More agent, RAG and MCP work: [agentic-ai list](https://github.com/stars/eshitakundu/lists/agentic-ai)
+
+---
+
+## `~/how-i-build`
 
 ```text
-building        agentic systems, MCP tooling, EVM analysis
-learning        solidity, deeper EVM internals, react
-working with    python, fastapi, postgres, docker
-environment     windows + wsl
+the model proposes      typed, read-only tools under a hard budget
+code decides            validators, deterministic scoring, rule-based fallbacks
+tests try to break it   adversarial evals in CI, measured against a baseline
 ```
 
 ---
@@ -33,92 +45,30 @@ environment     windows + wsl
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,fastapi,postgres,redis,docker,git,github,linux,cloudflare&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,docker,githubactions,linux,cloudflare,ts,react&perline=12)](https://skillicons.dev)
 
-`Pydantic` · `MCP` · `LangGraph` · `NOOA` · `OpenRouter` · `pgvector` · `uv` · `GitHub Actions` · `EVM`
+`LLM agents` · `function calling` · `structured outputs` · `MCP / FastMCP` · `RAG` · `LangGraph` · `evals` · `Pydantic` · `SQLAlchemy` · `pytest` · `Playwright`
 
 </div>
 
 ---
 
-## `~/activity`
+## `~/now`
+
+```text
+building        lost-media-detective: LangGraph agent + LangSmith traces, benchmarked against a keyword baseline
+learning        LLM evaluation and agent reliability
+```
+
+---
 
 <div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshitakundu&theme=github_dark"
-  width="76%"
-  alt="GitHub profile activity"
-/>
-
-<table>
-<tr>
-<td width="50%" align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshitakundu&theme=github_dark"
-  width="100%"
+  width="49%"
   alt="GitHub statistics"
 />
-
-</td>
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshitakundu&theme=github_dark&utcOffset=5.5"
-  width="100%"
-  alt="Commit activity by time"
-/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `~/github`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### building
-
-I use GitHub as the working space for experiments, systems, tooling, and projects that are still evolving.
-
-Most active areas right now:
-
-`agents` · `MCP` · `backend systems` · `EVM` · `infra`
-
-</td>
-<td width="50%" valign="top">
-
-### open source
-
-Interested in contributing around:
-
-`AI tooling` · `developer infrastructure` · `agent frameworks`
-
-Issues, discussions, and collaboration are welcome.
-
-</td>
-</tr>
-</table>
-
----
-
-## `~/community`
-
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/eshitakundu?style=flat-square&label=followers&color=111827)](https://github.com/eshitakundu?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=eshitakundu&style=flat-square&label=profile+views&color=111827)
-
-[![GitHub](https://img.shields.io/badge/@eshitakundu-111827?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/eshitakundu)
-[![LinkedIn](https://img.shields.io/badge/connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eshitakundu)
-[![Portfolio](https://img.shields.io/badge/eshita.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://eshita.dev)
 
 <img src="./ending.png" width="100%" alt="Profile footer"/>
 
