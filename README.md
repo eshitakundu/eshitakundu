@@ -35,7 +35,7 @@ environment     windows + wsl
 
 <div align="center">
 
-[TraceIntel](https://traceintel.eshita.dev) · [ARIS](https://aris.eshita.dev/) · [study-buddy](https://github.com/eshitakundu/study-buddy)
+[TraceIntel](https://traceintel.eshita.dev) · [MoodIfy](https://moodify.eshita.dev) · [ARIS](https://aris.eshita.dev/) · [study-buddy](https://github.com/eshitakundu/study-buddy)
 
 </div>
 
