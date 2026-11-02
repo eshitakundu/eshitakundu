@@ -35,7 +35,7 @@ environment     windows + wsl
 
 <div align="center">
 
-[TraceIntel](https://traceintel.eshita.dev) · [MoodIfy](https://moodify.eshita.dev) · [ARIS](https://aris.eshita.dev/) · [study-buddy](https://github.com/eshitakundu/study-buddy)
+[TraceIntel](https://traceintel.eshita.dev) · [MoodIfy](https://moodify.eshita.dev) · [ARIS](https://aris.eshita.dev/) · [Jev Flow](https://jevflow.eshita.dev) · [study-buddy](https://github.com/eshitakundu/study-buddy)
 
 </div>
 
@@ -92,11 +92,15 @@ Most active areas right now:
 
 ### open source
 
-Interested in contributing around:
+Merged contributions:
+
+- [amd/gaia](https://github.com/amd/gaia/pulls?q=is%3Apr+author%3Aeshitakundu): docs for the Agent UI default model and current examples
+- [CrossGL/crosstl](https://github.com/CrossGL/crosstl/pulls?q=is%3Apr+author%3Aeshitakundu): WGSL codegen for struct initializers
+- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch/pulls?q=is%3Apr+author%3Aeshitakundu): tutor-skill lesson counts
+- [heymrun/heym](https://github.com/heymrun/heym/issues/135): proposed the Python Exec node
+- [FameChain](https://github.com/Mouli51ch/FameChain/pull/4): UI/UX
 
 `AI tooling` · `developer infrastructure` · `agent frameworks`
-
-Issues, discussions, and collaboration are welcome.
 
 </td>
 </tr>
