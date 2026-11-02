@@ -92,7 +92,7 @@ Most active areas right now:
 
 ### open source
 
-Merged contributions:
+Contributions:
 
 - [amd/gaia](https://github.com/amd/gaia/pulls?q=is%3Apr+author%3Aeshitakundu): docs for the Agent UI default model and current examples
 - [CrossGL/crosstl](https://github.com/CrossGL/crosstl/pulls?q=is%3Apr+author%3Aeshitakundu): WGSL codegen for struct initializers
