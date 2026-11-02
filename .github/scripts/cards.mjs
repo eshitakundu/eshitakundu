@@ -120,7 +120,7 @@ const rows = [
   ["Pull requests", fmt(totals.prs)],
   ["Issues", fmt(totals.issues)],
   ["Private contributions", fmt(totals.private)],
-  ["Repos contributed to", fmt(u.repositoriesContributedTo.totalCount)],
+  ["Public repos contributed to", fmt(u.repositoriesContributedTo.totalCount)],
   ["Stars earned", fmt(stars)],
   ["Current streak", `${current} day${current === 1 ? "" : "s"}`],
   ["Longest streak", `${longest} day${longest === 1 ? "" : "s"}`],
@@ -142,7 +142,7 @@ let cursor = barX;
 const segments = topLangs
   .map(([, l]) => {
     const w = (l.size / langTotal) * barW;
-    const seg = `<rect x="${cursor.toFixed(1)}" y="58" width="${w.toFixed(1)}" height="16" fill="${l.color}"/>`;
+    const seg = `<rect x="${cursor.toFixed(1)}" y="66" width="${w.toFixed(1)}" height="16" fill="${l.color}"/>`;
     cursor += w;
     return seg;
   })
@@ -150,12 +150,13 @@ const segments = topLangs
 const legend = topLangs
   .map(([name, l], k) => {
     const x = 26 + (k % 2) * 236;
-    const y = 96 + Math.floor(k / 2) * 22;
+    const y = 120 + Math.floor(k / 2) * 38;
     const pct = ((l.size / langTotal) * 100).toFixed(1);
     return `<rect x="${x}" y="${y - 10}" width="11" height="11" fill="${l.color}" stroke="#000"/><text x="${x + 18}" y="${y}" ${font} font-size="12" fill="#000">${esc(name)} ${pct}%</text>`;
   })
   .join("\n  ");
-const langHeight = 96 + Math.ceil(topLangs.length / 2) * 22 + 6;
+// Same height as the stats card so the two sit level side by side.
+const langHeight = statsHeight;
 
 mkdirSync("cards", { recursive: true });
 writeFileSync("cards/stats.svg", frame("C:\\stats.exe", statsHeight, statsBody));
@@ -164,7 +165,7 @@ writeFileSync(
   frame(
     "C:\\languages.exe",
     langHeight,
-    `<rect x="${barX - 2}" y="56" width="${barW + 4}" height="20" fill="#c0c0c0" stroke="#000"/>${segments}\n  ${legend}`,
+    `<rect x="${barX - 2}" y="64" width="${barW + 4}" height="20" fill="#c0c0c0" stroke="#000"/>${segments}\n  ${legend}`,
   ),
 );
 console.log({ ...totals, lastYear, current, longest, stars, langs: topLangs.map(([n]) => n) });
