@@ -62,8 +62,6 @@ environment     windows + wsl
 <img src="./cards/stats.svg" width="49%" alt="GitHub stats: all-time contributions including private, commits, pull requests, issues and streaks"/>
 <img src="./cards/languages.svg" width="49%" alt="Most used languages across my public repositories"/>
 
-<sub>Counts every contribution on my graph, including private work. Regenerated daily by a GitHub Action.</sub>
-
 </div>
 
 ---
