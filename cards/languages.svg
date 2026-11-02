@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="168" viewBox="0 0 495 168" role="img" aria-label="C:\languages.exe">
+  <rect x="1" y="1" width="493" height="166" fill="#c0c0c0" stroke="#000" stroke-width="2"/>
+  <rect x="6" y="6" width="483" height="26" fill="#0057cc"/>
+  <text x="14" y="24" font-family="'Courier New', Consolas, monospace" font-size="14" font-weight="bold" fill="#e0e0e0">C:\languages.exe</text>
+  <rect x="411" y="9" width="22" height="20" fill="#c0c0c0" stroke="#000"/><text x="422" y="24" font-family="'Courier New', Consolas, monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="#000">_</text><rect x="437" y="9" width="22" height="20" fill="#c0c0c0" stroke="#000"/><text x="448" y="24" font-family="'Courier New', Consolas, monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="#000">□</text><rect x="463" y="9" width="22" height="20" fill="#c0c0c0" stroke="#000"/><text x="474" y="24" font-family="'Courier New', Consolas, monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="#000">×</text>
+  <rect x="12" y="40" width="471" height="116" fill="#ffffff" stroke="#808080" stroke-width="2"/>
+  <rect x="24" y="56" width="447" height="20" fill="#c0c0c0" stroke="#000"/><rect x="26.0" y="58" width="167.6" height="16" fill="#3572A5"/><rect x="193.6" y="58" width="93.3" height="16" fill="#663399"/><rect x="286.9" y="58" width="63.1" height="16" fill="#3178c6"/><rect x="350.1" y="58" width="62.7" height="16" fill="#f1e05a"/><rect x="412.8" y="58" width="51.5" height="16" fill="#e34c26"/><rect x="464.3" y="58" width="2.5" height="16" fill="#AA6746"/>
+  <rect x="26" y="86" width="11" height="11" fill="#3572A5" stroke="#000"/><text x="44" y="96" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#000">Python 37.8%</text>
+  <rect x="262" y="86" width="11" height="11" fill="#663399" stroke="#000"/><text x="280" y="96" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#000">CSS 21.1%</text>
+  <rect x="26" y="108" width="11" height="11" fill="#3178c6" stroke="#000"/><text x="44" y="118" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#000">TypeScript 14.3%</text>
+  <rect x="262" y="108" width="11" height="11" fill="#f1e05a" stroke="#000"/><text x="280" y="118" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#000">JavaScript 14.2%</text>
+  <rect x="26" y="130" width="11" height="11" fill="#e34c26" stroke="#000"/><text x="44" y="140" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#000">HTML 11.6%</text>
+  <rect x="262" y="130" width="11" height="11" fill="#AA6746" stroke="#000"/><text x="280" y="140" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#000">Solidity 0.6%</text>
+</svg>
