@@ -6,15 +6,7 @@
 
 # Eshita Kundu
 
-I build AI agents that show their evidence and know when to say "not sure."
-
-`agentic systems` · `backend` · `web3` · `developer tooling`
-
-
-[![Portfolio](https://img.shields.io/badge/eshita.dev-111827?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://eshita.dev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-111827?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eshitakundu)
-[![Medium](https://img.shields.io/badge/medium-111827?style=flat-square&logo=medium&logoColor=ffffff)](https://medium.com/@eshita.kundu.2026)
-[![Email](https://img.shields.io/badge/email-111827?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:eshita.kundu.2026@gmail.com)
+Agentic AI engineer: LLM agents, MCP servers, and the guardrails and evals around them.
 
 </div>
 
@@ -31,13 +23,35 @@ environment     windows + wsl
 
 ---
 
-## `~/shipped`
+## `~/github`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[TraceIntel](https://traceintel.eshita.dev) · [MoodIfy](https://moodify.eshita.dev) · [ARIS](https://aris.eshita.dev/) · [Jev Flow](https://jevflow.eshita.dev) · [study-buddy](https://github.com/eshitakundu/study-buddy)
+### shipped
 
-</div>
+- [TraceIntel](https://traceintel.eshita.dev): audits old token approvals against live chain state
+- [ARIS](https://aris.eshita.dev/): evidence-backed verdicts on developer tools
+- [DevPulse](https://devpulse.eshita.dev): Hacker News pros and cons, every point quoted
+- [Jev Flow](https://jevflow.eshita.dev): LLM triage with human review below a threshold
+- [MoodIfy](https://moodify.eshita.dev): songs matched to how you feel
+- [study-buddy](https://github.com/eshitakundu/study-buddy): MCP server for notes and past papers
+
+</td>
+<td width="50%" valign="top">
+
+### open source
+
+- [amd/gaia](https://github.com/amd/gaia/pulls?q=is%3Apr+author%3Aeshitakundu): docs for the Agent UI default model and current examples
+- [CrossGL/crosstl](https://github.com/CrossGL/crosstl/pulls?q=is%3Apr+author%3Aeshitakundu): WGSL codegen for struct initializers
+- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch/pulls?q=is%3Apr+author%3Aeshitakundu): tutor-skill lesson counts
+- [heymrun/heym](https://github.com/heymrun/heym/issues/135): proposed the Python Exec node
+- [FameChain](https://github.com/Mouli51ch/FameChain/pull/4): UI/UX
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,74 +63,7 @@ environment     windows + wsl
 
 `Pydantic` · `MCP` · `LangGraph` · `NOOA` · `OpenRouter` · `pgvector` · `uv` · `GitHub Actions` · `EVM`
 
-</div>
-
----
-
-## `~/activity`
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshitakundu&theme=github_dark"
-  width="76%"
-  alt="GitHub profile activity"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshitakundu&theme=github_dark"
-  width="49%"
-  alt="GitHub statistics"
-/>
-
-</div>
-
----
-
-## `~/github`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### building
-
-I use GitHub as the working space for experiments, systems, tooling, and projects that are still evolving.
-
-Most active areas right now:
-
-`agents` · `MCP` · `backend systems` · `EVM` · `infra`
-
-</td>
-<td width="50%" valign="top">
-
-### open source
-
-Contributions:
-
-- [amd/gaia](https://github.com/amd/gaia/pulls?q=is%3Apr+author%3Aeshitakundu): docs for the Agent UI default model and current examples
-- [CrossGL/crosstl](https://github.com/CrossGL/crosstl/pulls?q=is%3Apr+author%3Aeshitakundu): WGSL codegen for struct initializers
-- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch/pulls?q=is%3Apr+author%3Aeshitakundu): tutor-skill lesson counts
-- [heymrun/heym](https://github.com/heymrun/heym/issues/135): proposed the Python Exec node
-- [FameChain](https://github.com/Mouli51ch/FameChain/pull/4): UI/UX
-
-`AI tooling` · `developer infrastructure` · `agent frameworks`
-
-</td>
-</tr>
-</table>
-
----
-
-## `~/community`
-
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/eshitakundu?style=flat-square&label=followers&color=111827)](https://github.com/eshitakundu?tab=followers)
-
-[![GitHub](https://img.shields.io/badge/@eshitakundu-111827?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/eshitakundu)
-[![LinkedIn](https://img.shields.io/badge/connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/eshitakundu)
-[![Portfolio](https://img.shields.io/badge/eshita.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://eshita.dev)
+<br/>
 
 <img src="./ending.png" width="100%" alt="Profile footer"/>
 
