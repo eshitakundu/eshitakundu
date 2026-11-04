@@ -47,7 +47,6 @@ environment     windows + wsl
 - [CrossGL/crosstl](https://github.com/CrossGL/crosstl/pulls?q=is%3Apr+author%3Aeshitakundu): WGSL codegen for struct, vector and matrix initializers
 - [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch/pulls?q=is%3Apr+author%3Aeshitakundu): tutor-skill lesson counts
 - [heymrun/heym](https://github.com/heymrun/heym/issues/135): proposed the Python Exec node
-- [FameChain](https://github.com/Mouli51ch/FameChain/pull/4): UI/UX
 
 </td>
 </tr>
