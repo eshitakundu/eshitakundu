@@ -43,8 +43,8 @@ environment     windows + wsl
 
 ### open source
 
-- [amd/gaia](https://github.com/amd/gaia/pulls?q=is%3Apr+author%3Aeshitakundu): docs for the Agent UI default model and current examples
-- [CrossGL/crosstl](https://github.com/CrossGL/crosstl/pulls?q=is%3Apr+author%3Aeshitakundu): WGSL codegen for struct initializers
+- [amd/gaia](https://github.com/amd/gaia/pulls?q=is%3Apr+author%3Aeshitakundu): MCP HTTP transport that follows the spec, plus docs for the Agent UI default model
+- [CrossGL/crosstl](https://github.com/CrossGL/crosstl/pulls?q=is%3Apr+author%3Aeshitakundu): WGSL codegen for struct, vector and matrix initializers
 - [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch/pulls?q=is%3Apr+author%3Aeshitakundu): tutor-skill lesson counts
 - [heymrun/heym](https://github.com/heymrun/heym/issues/135): proposed the Python Exec node
 - [FameChain](https://github.com/Mouli51ch/FameChain/pull/4): UI/UX
