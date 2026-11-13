@@ -15,8 +15,8 @@ Agentic AI engineer: LLM agents, MCP servers, and the guardrails and evals aroun
 ## `~/now`
 
 ```text
-building        agentic systems, MCP tooling, EVM analysis
-learning        solidity, deeper EVM internals, react
+building        LLM agents, MCP servers, tool-use guardrails
+contributing    amd/gaia (MCP and agent runtime)
 working with    python, fastapi, postgres, docker
 environment     windows + wsl
 ```
@@ -43,7 +43,7 @@ environment     windows + wsl
 
 ### open source
 
-- [amd/gaia](https://github.com/amd/gaia/pulls?q=is%3Apr+author%3Aeshitakundu): MCP HTTP transport that follows the spec, plus docs for the Agent UI default model
+- [amd/gaia](https://github.com/amd/gaia/pulls?q=is%3Apr+author%3Aeshitakundu): MCP fixes in AMD's agent framework: an HTTP transport that follows the spec, connectors that pick up catalog updates, and bridge calls that stop when the client hangs up
 - [CrossGL/crosstl](https://github.com/CrossGL/crosstl/pulls?q=is%3Apr+author%3Aeshitakundu): WGSL codegen for struct, vector and matrix initializers
 - [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch/pulls?q=is%3Apr+author%3Aeshitakundu): tutor-skill lesson counts
 - [heymrun/heym](https://github.com/heymrun/heym/issues/135): proposed the Python Exec node
