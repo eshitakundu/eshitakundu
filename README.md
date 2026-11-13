@@ -45,7 +45,7 @@ environment     windows + wsl
 
 - [amd/gaia](https://github.com/amd/gaia/pulls?q=is%3Apr+author%3Aeshitakundu): MCP fixes in AMD's agent framework: an HTTP transport that follows the spec, connectors that pick up catalog updates, and bridge calls that stop when the client hangs up
 - [CrossGL/crosstl](https://github.com/CrossGL/crosstl/pulls?q=is%3Apr+author%3Aeshitakundu): WGSL codegen for struct, vector and matrix initializers
-- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch/pulls?q=is%3Apr+author%3Aeshitakundu): tutor-skill lesson counts
+- [ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch/pulls?q=is%3Apr+author%3Aeshitakundu): tutor-skill lesson counts and fairer quiz answers for the LLM lessons
 - [heymrun/heym](https://github.com/heymrun/heym/issues/135): proposed the Python Exec node
 
 </td>
