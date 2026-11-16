@@ -69,9 +69,9 @@ environment     windows + wsl
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,fastapi,postgres,redis,docker,git,github,linux,cloudflare&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,fastapi,postgres,docker,git,github,linux,cloudflare&perline=12)](https://skillicons.dev)
 
-`Pydantic` · `MCP` · `LangGraph` · `NOOA` · `OpenRouter` · `pgvector` · `uv` · `GitHub Actions` · `EVM`
+`Pydantic` · `MCP` · `LangGraph` · `NOOA` · `OpenRouter` · `uv` · `GitHub Actions` · `EVM`
 
 <br/>
 
